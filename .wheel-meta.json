@@ -1,0 +1,22 @@
+{
+  "wheel_id": 970,
+  "structure": "umbrella",
+  "slug": "goldcoastgaragedoorrepairs-com-152",
+  "project": "garage-door-repair-gold-coast-2947753ecbd33726a0d46c3dba707711d",
+  "parent_t1_ref": "goldcoastgaragedoorrepairs.com-009",
+  "node_role": "buffer",
+  "money_target": "goldcoastgaragedoorrepairs.com.au",
+  "primary_kw": "garage door repair gold coast",
+  "intended_url": "https://sitesau.github.io/goldcoastgaragedoorrepairs-com-152/",
+  "tier": "T2",
+  "writeback_nonce": "8a63c177db7c238a",
+  "links": [
+    {
+      "target_url": "https://cloudsites-hub.pages.dev/sites-01/garage-door-repair-gold-coast/",
+      "anchor": "the garage door repair gold coast overview",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
